@@ -4,3 +4,5 @@
 
 def litres(time):
     return round(time * 0.5)
+
+# Выполнено
